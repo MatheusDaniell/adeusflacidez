@@ -31,7 +31,7 @@
   font-size: 110px;
 }
 .custom-font{
-  font-size: 90px;
+  font-size: 70px;
 }
 
 .me{
@@ -90,7 +90,7 @@
   }
   
   .text{
-    font-size: 85px;
+    font-size: 100px;
   }
   .custom-font{
     font-size: 40px;
@@ -221,7 +221,7 @@ div :id {
 }
 
 .text{
-  font-size: 75px;
+  font-size: 100px;
    margin-bottom: 150px;
    margin-left: -30px; 
   color:#ff456a;
@@ -237,7 +237,7 @@ div :id {
   margin-left: -30px; 
   margin-right: -33px;
   margin-top: 20px; 
-  font-size: 35px;
+  font-size: 50px;
   margin-bottom: 30px;
   font-family: "PT Serif", serif;
   font-weight: 700;
@@ -250,7 +250,7 @@ div :id {
     margin-left: -28px;
     margin-right: -25px;
     margin-top: 4px; 
-    font-size: 25px; 
+    font-size: 30px; 
     display: inline-block; 
     width: 80%; 
     font-family: "Baskervville SC", serif;
