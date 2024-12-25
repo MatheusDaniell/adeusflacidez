@@ -250,7 +250,7 @@ div :id {
     margin-left: -28px;
     margin-right: -25px;
     margin-top: 4px; 
-    font-size: 30px; 
+    font-size: 35px; 
     display: inline-block; 
     width: 80%; 
     font-family: "Baskervville SC", serif;
@@ -463,7 +463,7 @@ div :id {
     font-family: "Anton SC", sans-serif;
     font-weight: 600;
     font-style: italic;
-    font-size: 28px;
+    font-size: 35px;
     color: #461800;
     
 }
