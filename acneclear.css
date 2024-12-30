@@ -450,16 +450,6 @@ div :id {
     text-transform: uppercase;
     }
 
-  .md {
-    font-size: 30px; 
-    color: #461700; 
-    font-family: Rubik, serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-weight: 700;
-    width: 95%;
-}
-
   .che {
     width: 78%; 
     font-family: "Anton SC", sans-serif;
